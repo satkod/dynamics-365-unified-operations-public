@@ -26,7 +26,7 @@ ms.search.validFrom: 2020-07-20
 ms.dyn365.ops.version: AX 10.0.13
 
 ---
-# Configuration for Finance insights (preview)
+# Configuration for Finance insights for private preview (preview) - upto version 10.0.19
 
 [!include [banner](../includes/banner.md)]
 
